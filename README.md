@@ -9,6 +9,7 @@
 
 
 <!-- leave a STAR, if you like it ! -->
+<!-- Credit :- Anurag Hazra , Shahriar Shafin and other respected Developer's great ideas -->
 
 <!-- Intro  -->
 <h3 align="center">
@@ -57,8 +58,8 @@
     <p align="center">
         <br>
         <!-- Activity Widget -->
-        <img alt="Shahriar Shafin's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=ShahriarShafin&show_icons=true&theme=radical" />
+        <img alt="Abhimanyu Dwivedi's GitHub Stats"
+                src="https://github-readme-stats.vercel.app/api?username=ABinfinity&show_icons=true&theme=radical" />
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
