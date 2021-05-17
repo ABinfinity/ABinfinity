@@ -11,14 +11,17 @@
 <!-- leave a STAR, if you like it ! -->
 <!-- Credit :- Anurag Hazra , Shahriar Shafin and other respected Developer's great ideas -->
 
+<!-- GIF -->
+<p align="center">
+<img src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width="200" height="187" frameBorder="0" class="giphy-embed" allowFullScreen>
+</p>
+
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hello World!, I am
                 <b><a target="_blank" href="https://abhimanyu.herokuapp.com/index.html">Abhimanyu Dwivedi</a></b>
         </samp>
 </h3>
-<br>
-
 <p align="center">
         <!-- Organisation  -->
         <samp>
