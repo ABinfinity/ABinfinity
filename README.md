@@ -78,6 +78,23 @@
         <a href="https://www.linkedin.com/in/abinfinity/" target="_blank"><img alt="Linkedin"
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
+        <!-- Kaggle -->
+        <a href="https://www.kaggle.com/abinfinity" target="_blank"><img alt="Kaggle"
+                src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white">
+        </a>
+        <!-- Page -->
+        <a href="https://abhimanyu.herokuapp.com/index.html" target="_blank"><img alt="Portfolio Page"
+                src="https://img.shields.io/badge/-MyPage-430098?style=flat-square&logo=Heroku&logoColor=white">
+        </a>
+        <br>
+        <!-- CodePen -->
+        <a href="https://codepen.io/Abinfinity" target="_blank"><img alt="Codepen"
+                src="https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=CodePen&logoColor=white">
+        </a>
+        <!-- Medium -->
+        <a href="https://medium.com/@abinfinity" target="_blank"><img alt="Medium"
+                src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white">
+        </a>
     </p>
 </details>
 <br>
