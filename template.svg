@@ -298,9 +298,9 @@
   
         <!-- From company... -->
         <g transform="translate(10, 120)" class="msg-3">
-          <rect width="500" height="66.1302" rx="18.0355" class="bubble"/>
-          <text x="15" y="27">I’m a passionate software developer, currently associated </text>
-          <text x="15" y="50">with Capgemini for {psTime} now.</text>
+          <rect width="400" height="66.1302" rx="18.0355" class="bubble"/>
+          <text x="15" y="27">I’m a professional full time software developer </text>
+          <text x="15" y="50">for {psTime} now.</text>
         </g>
   
         <!-- typing 4 -->
